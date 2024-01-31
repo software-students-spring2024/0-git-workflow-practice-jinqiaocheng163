@@ -8,3 +8,6 @@ The fist advice is that I should have a portfolio of my software development wor
 
 The second is that I should read more books from sucessful software engineers so I can absorb the experience from them and grow quicker to become a qualified software engineer.
 
+## Thoughts(Marcus)
+
+I suppose that the first point is rather easy to achieve, given that we're all using github right now. The second point I find more admirable, as reading seems to become less accessible to many people nowadays. I admire your intent to read more though!
