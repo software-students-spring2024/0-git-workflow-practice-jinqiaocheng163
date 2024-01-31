@@ -8,3 +8,4 @@ The fist advice is that I should have a portfolio of my software development wor
 
 The second is that I should read more books from sucessful software engineers so I can absorb the experience from them and grow quicker to become a qualified software engineer.
 
+I found that the fourth one is that I should develop my technical skills including sql and other programming tools like HTML and more. 
