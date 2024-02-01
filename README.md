@@ -11,3 +11,8 @@ The second is that I should read more books from sucessful software engineers so
 ## Thoughts(Marcus)
 
 I suppose that the first point is rather easy to achieve, given that we're all using github right now. The second point I find more admirable, as reading seems to become less accessible to many people nowadays. I admire your intent to read more though!
+
+
+##Thoughts(Yiwen)
+
+I find that the fourth point is really useful that we should develop our technical skills like HTML and other languages. I think doing some full stack projects may help. s 
